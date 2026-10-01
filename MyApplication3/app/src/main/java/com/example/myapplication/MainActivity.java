@@ -22,45 +22,34 @@ public class MainActivity extends AppCompatActivity {
     protected void onStart() {
         super.onStart();
         Log.i("Ejemplo", "Estoy en on start");
-    }
-
-    ;
+    };
 
     protected void onRestart() {
         super.onRestart();
         Log.i("Ejemplo", "Estoy en on Restart");
-    }
-
-    ;
+    };
 
     protected void onResume() {
-        super.onResume();
+        super.onResume() ;
         Log.i("Ejemplo", "Estoy en on Resume ");
-    }
-
-    ;
+    };
 
     protected void onPause() {
-        super.onPause();
+        super.onPause() ;
         Log.i("Ejemplo", "Estoy en on Pause ");
-    }
-
-    ;
+    };
 
     protected void onStop() {
-        super.onStop();
+        super.onStop()  ;
         Log.i("Ejemplo", "Estoy en on Stop  ");
-    }
-
-    ;
+    };
 
     protected void onDestroy() {
-        super.onDestroy();
+        super.onDestroy()  ;
         Log.i("Ejemplo", "Estoy en on Destroy ");
-    }
+    };
 
-    ;
+
+
 
 }
-
-
