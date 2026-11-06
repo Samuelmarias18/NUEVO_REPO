@@ -1,0 +1,21 @@
+<resources>
+    <string name="titulo">Gestión de la cuenta</string>
+    <string name="app_name">Cuenta del Bar</string>
+    <string name="hint_camarero">Camarero</string>
+    <string name="hint_total">Total (€)</string>
+    <string name="incluir_propina">Incluir propina</string>
+    <string name="texto_propina">Propina</string>
+    <string name="efectivo">Efectivo</string>
+    <string name="tarjeta">Tarjeta</string>
+    <string name="calcular">Calcular total</string>
+    <string name="resultado_inicial">Aquí aparecerá el resultado</string>
+    <string name="label_camarero">Camarero</string>
+    <string name="label_cuenta">Cuenta</string>
+    <string name="label_total">Total a pagar</string>
+    <string name="label_pago">Método de pago</string>
+    <string name="label_valoracion">Valoración del servicio</string>
+    <string name="error_vacio">Error: falta meter el valor de la cuenta.</string>
+    <string name="error_formato">Error: el total no es un número válido.</string>
+    <string name="error_minimo">Error: el total tiene que ser mayor que 0.</string>
+    <string name="error_pago">Error: elige un método de pago.</string>
+</resources>

@@ -1,0 +1,21 @@
+<resources>
+    <string name="titulo">Bar bill manager</string>
+    <string name="app_name">Bar Bill</string>
+    <string name="hint_camarero">Waiter</string>
+    <string name="hint_total">Total (€)</string>
+    <string name="incluir_propina">Include tip</string>
+    <string name="texto_propina">Tip</string>
+    <string name="efectivo">Cash</string>
+    <string name="tarjeta">Card</string>
+    <string name="calcular">Calculate total</string>
+    <string name="resultado_inicial">The result will appear here</string>
+    <string name="label_camarero">Waiter</string>
+    <string name="label_cuenta">Bill</string>
+    <string name="label_total">Total to pay</string>
+    <string name="label_pago">Payment method</string>
+    <string name="label_valoracion">Service rating</string>
+    <string name="error_vacio">Error: you must enter the bill total.</string>
+    <string name="error_formato">Error: the total is not a valid number.</string>
+    <string name="error_minimo">Error: the total must be greater than 0.</string>
+    <string name="error_pago">Error: choose a payment method.</string>
+</resources>
